@@ -23,5 +23,7 @@
   },
   "scripts": {
   "dev": "nodemon server.js"
+},"scripts": {
+  "start": "node server.js"
 }
 }
